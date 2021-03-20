@@ -83,4 +83,4 @@ An event listener tracks the users interaction and can make changes to the web s
 4. Why would we convert a NodeList into an Array?
 We would convert it because NodeList is a browser API and Array is JavaScript API. Once converted we can manipulate it with JavaScript.
 5. What is a component?
-A component is reusable code comprised of html, css, or javaScript.
+A component is reusable code comprised of html, css, or javaScript. 
